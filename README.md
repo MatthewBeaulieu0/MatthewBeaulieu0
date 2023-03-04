@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBeaulieu0&layout=compact&theme=dark&title_color=00ff00&icon_color=66ff66&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBeaulieu0&layout=compact&theme=dark&title_color=00ff00&icon_color=66ff66&text_color=fff&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
